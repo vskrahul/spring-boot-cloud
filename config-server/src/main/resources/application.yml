@@ -3,11 +3,14 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/vskrahul/spring-boot-microservices.git
-          searchPaths: microservices-config/{application}
+          uri: https://github.com/vskrahul/spring-boot-cloud.git
+          searchPaths: cloud-git-config/{application}
       bootstrap: true
+  config:
+    name: application.yml
   application:
-    name: config-server
+    name: spring cloud config server
 
 server:
   port: 8888
+

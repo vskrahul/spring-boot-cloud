@@ -1,0 +1,6 @@
+movies:
+  geners: horror, drama, action, default
+
+environment: default
+
+endpoint: ${baseUrl.movieInfo}/something

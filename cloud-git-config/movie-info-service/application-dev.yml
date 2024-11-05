@@ -1,7 +1,7 @@
 movies:
-  geners: horror, drama, action
+  geners: horror, drama, action, development
 
 environment: dev
 
 baseUrl:
-  movieInfo: movie infor dev environment
+  movieInfo: movie-info-dev

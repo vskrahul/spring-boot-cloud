@@ -1,0 +1,7 @@
+movies:
+  geners: horror, drama, action, test
+
+environment: test
+
+baseUrl:
+  movieInfo: movie-info-test
