@@ -1,0 +1,7 @@
+movies:
+  geners: horror, drama, action
+
+environment: dev
+
+baseUrl:
+  movieInfo: movie infor dev environment
