@@ -5,7 +5,6 @@ spring:
         git:
           uri: https://github.com/vskrahul/spring-boot-cloud.git
           searchPaths: cloud-git-config/{application}
-      bootstrap: true
   config:
     name: application.yml
   application:
