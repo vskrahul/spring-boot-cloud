@@ -1,0 +1,6 @@
+environment: test
+
+movie:
+  geners: test
+
+endpoint: test endpoint
