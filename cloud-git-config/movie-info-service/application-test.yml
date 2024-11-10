@@ -1,5 +1,5 @@
 movies:
-  geners: horror, drama, action, test
+  genres: horror, drama, action, test
 
 environment: test
 

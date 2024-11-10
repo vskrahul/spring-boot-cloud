@@ -1,5 +1,5 @@
 movies:
-  geners: horror, drama, action, default
+  genres: horror, drama, action, default
 
 environment: default
 
