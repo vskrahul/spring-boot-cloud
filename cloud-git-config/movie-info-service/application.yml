@@ -4,3 +4,5 @@ movies:
 environment: default
 
 endpoint: ${baseUrl.movieInfo}/something
+
+somedata: added
